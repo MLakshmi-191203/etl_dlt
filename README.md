@@ -87,8 +87,3 @@ This project simulates a real-world ETL pipeline used in data engineering for in
 * Power BI dashboard integration
 * AI-based query system (RAG)
 
----
-
-## 👩‍💻 Author
-
-Lakshmi
