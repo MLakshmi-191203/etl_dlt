@@ -1,0 +1,16 @@
+order_id,customer_name,product,quantity,price,order_date
+1001,Muthu,Bracelet,2,150,01-02-2026
+1002,Lakshmi,Necklace,1,300,02-02-2026
+1003,Ravi,Ring,3,200,03-02-2026
+1004,Divya,Earrings,2,120,04-02-2026
+1005,Kumar,Anklet,1,250,05-02-2026
+1006,Priya,Bracelet,4,150,06-02-2026
+1007,Arun,Necklace,2,300,07-02-2026
+1008,Sneha,Ring,1,200,08-02-2026
+1009,Vikram,Earrings,3,120,09-02-2026
+1010,Meena,Anklet,2,250,10-02-2026
+1011,Karthik,Bracelet,5,150,11-02-2026
+1012,Aarthi,Necklace,1,300,12-02-2026
+1013,Suresh,Ring,2,200,13-02-2026
+1014,Nisha,Earrings,4,120,14-02-2026
+1015,Manoj,Anklet,3,250,15-02-2026
